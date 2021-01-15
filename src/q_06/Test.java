@@ -1,14 +1,14 @@
+package q_06;
+
 import java.io.IOException;
 
-public class Question6 {
-}
-    class X{
+class X{
         public void printFileContent() throws IOException{
             /*code goes here */
             throw new IOException();
         }
     }
-    class Test {
+   public class Test {
         public static void main(String[] args) throws Exception {
             X xobj = new X();
             xobj.printFileContent();

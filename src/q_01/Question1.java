@@ -1,3 +1,5 @@
+package q_01;
+
 public class Question1 {
 
     public static void main(String[] args) {

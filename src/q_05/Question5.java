@@ -1,3 +1,5 @@
+package q_05;
+
 public class Question5 {
 
     /*
