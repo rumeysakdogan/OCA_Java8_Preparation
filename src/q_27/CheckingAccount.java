@@ -10,6 +10,7 @@ public class CheckingAccount {
     public static void main(String[] args) {
         CheckingAccount acc = new CheckingAccount();
         // line n2
+        acc.amount = 100;
         System.out.println(acc.amount);
     }
 }
@@ -40,4 +41,5 @@ public class CheckingAccount {
  		acc.amount = 100;				// ==> acc cannot be resolved to a variable
  		}
 
+* Answer :A D E
  */
